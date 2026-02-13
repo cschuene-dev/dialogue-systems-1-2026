@@ -87,7 +87,7 @@ Sources for inspiration:
 ## Submission
 
 In your submission provide:
-1) report for Part A (and A-VG) and your rpoject files on `/Code`.
+1) report for Part A (and A-VG) and your project files on `/Code`.
 2) text file with your SSML code (`Code/lab4.txt`); in the beginning of the file include the reference to the original performance. If you have done Part B-VG, mention that.
 3) audio file for Part B (`Code/lab4.mp3`)
 
